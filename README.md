@@ -15,7 +15,7 @@ Application Setup
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/hotel-management-system.git
+git clone (https://github.com/Prasath1603/717822P130)
 Open the project in IntelliJ IDEA or your preferred Java IDE.
 Configure the MySQL JDBC driver in your project's build path. You can download the driver from here.
 Build the project to ensure all dependencies are resolved.
