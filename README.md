@@ -1,7 +1,6 @@
 # 717822P130
-Hotel_Management_System
 Hotel Management System
-Overview
+Overview:
 The Hotel Management System is a console-based application designed to streamline hotel operations. It offers functionality for managing rooms, guests, bookings, and payments, providing hotel administrators with a comprehensive tool to efficiently handle daily tasks.
 
 Setup Instructions
